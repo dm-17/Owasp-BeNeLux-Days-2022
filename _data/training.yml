@@ -1,0 +1,40 @@
+# 25/09/2022
+
+- image   : image.jpg
+  day     : 24/11/2022
+  time    : 09:00
+  name    : Teacher1
+  bio     : >-
+            Bio text
+  title   : Title
+  abstract: >-
+            Abstract text
+  feed    :
+  url     :
+  urltag  :
+
+- image   : image.jpg
+  day     : 24/11/2022
+  time    : 09:00
+  name    : Teacher2
+  bio     : >-
+            Bio text
+  title   : Title
+  abstract: >-
+            Abstract text
+  feed    :
+  url     :
+  urltag  :
+
+- image   : image.jpg
+  day     : 24/11/2022
+  time    : 09:00
+  name    : Teacher3
+  bio     : >-
+            Bio text
+  title   : Title
+  abstract: >-
+            Abstract text
+  feed    :
+  url     :
+  urltag  :
