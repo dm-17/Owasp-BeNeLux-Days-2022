@@ -1,10 +1,16 @@
 # 25/09/2022
 
-- image   : contrast-security.png
-  name    : Contrast Security
-  url     : https://www.contrastsecurity.com/en-gb/
-  level   : Gold
-  style   :
+- image    :
+  name     :
+  url      :
+  level    : none
+  style    :
+
+#- image   : contrast-security.png
+#  name    : Contrast Security
+#  url     : https://www.contrastsecurity.com/en-gb/
+#  level   : Gold
+#  style   :
 #
 # - image   : micro-focus.png
 #   name    : Micro Focus

@@ -1,7 +1,7 @@
 <footer>
-  <div class="strike">
+  <!--div class="strike">
     <span>Sponsors</span>
-  </div>
+  </div-->
 
   {% assign goldSponsors = site.data.sponsors | where:"level","Gold" | sort: 'name' %}
   {% assign silverSponsors = site.data.sponsors | where:"level","Silver" | sort: 'name' %}
@@ -44,9 +44,9 @@
     {% endfor %}
   {% endif %}
 
-  <div class="strike">
+  <!--div class="strike">
     <span>Sponsors</span>
-  </div>
+  </div-->
   <div>&copy; OWASP Foundation 2022</div>
 </footer>
 </body>
