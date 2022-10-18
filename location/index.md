@@ -2,6 +2,8 @@
 title: Location
 ---
 
+The BeNeLux days will be in Tilburg (NL). The exact will be disclosed very soon.
+
 <!-- <div class="sponsor">
   <a href="https://www.howest.be/"><img src="/assets/images/sponsors/howest.png" alt="Howest logo"/></a><br />
 </div>
