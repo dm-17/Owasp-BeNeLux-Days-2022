@@ -9,8 +9,8 @@
 #     url  : program/conference
 #  - title: Conference live streaming
 #    url  : https://www.youtube.com/watch?v=9MOBMk0Y6KQ
-# - title: Location
-#   url  : location/
+- title: Location
+  url  : location/
 # - title: Sponsor
 #   url  : sponsor/
 #- title: Relive the conference

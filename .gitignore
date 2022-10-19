@@ -1,0 +1,4 @@
+# exclude the following files and folders
+.DS_Store
+_site/*
+.sass-cache/*
