@@ -6,15 +6,21 @@ title: The OWASP BeNeLux Program Committee
 * Martin Knobloch
 * Joren Poll
 * Edwin Gozeling
-* Tom Wirschell
+* Irfaan Santoe
+* Priyam Awasthy
+* Jenna Preston
 
 # OWASP Belgium chapter
 * Sebastien Deleersnyder
 * Lieven Desmet
 * David Mathy
+* Thomas Herlea
 * Stella Dineva
+* Adolfo Solero
 * Maxim Baele
 
 # OWASP Luxembourg chapter
 * Yasser Aboukir
+* Aurélien Dias
+* Daniel Morales
 * Dang Vinh Tran
