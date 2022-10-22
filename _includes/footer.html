@@ -1,16 +1,16 @@
 <footer>
-  <!--div class="strike">
+  <div class="strike">
     <span>Sponsors</span>
-  </div-->
+  </div>
 
   {% assign goldSponsors = site.data.sponsors | where:"level","Gold" | sort: 'name' %}
   {% assign silverSponsors = site.data.sponsors | where:"level","Silver" | sort: 'name' %}
   {% assign bronzeSponsors = site.data.sponsors | where:"level","Bronze" | sort: 'name' %}
   {% assign socialEventSponsors = site.data.sponsors | where:"level","Social event" | sort: 'name' %}
 
-  <!-- <div class="sponsor">
-    <a href="https://www.howest.be/"><img src="/assets/images/sponsors/howest.png" alt="Howest logo"/></a><br />
-  </div> -->
+  <div class="sponsor">
+    <a href="https://www.achmea.nl/"><img src="/assets/images/sponsors/achmea.png" alt="Achmea logo"/></a><br />
+  </div>
 
   {% if goldSponsors %}
     {% for sponsor in goldSponsors %}
@@ -44,9 +44,9 @@
     {% endfor %}
   {% endif %}
 
-  <!--div class="strike">
+  <div class="strike">
     <span>Sponsors</span>
-  </div-->
+  </div>
   <div>&copy; OWASP Foundation 2022</div>
 </footer>
 </body>
