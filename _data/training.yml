@@ -1,8 +1,8 @@
-# 25/09/2022
+# 25/11/2022
 
 - image   : sebastien-deleersnyder.jpg
   day     : 25/11/2022
-  time    : 09:00
+  time    : 09:00 - 17:00
   name    : Sebastien Deleersnyder
   bio     : >-
             Sebastien (Seba) Deleersnyder is co-founder and CTO of Toreon.
@@ -101,10 +101,11 @@
   feed    :
   url     :
   urltag  :
+  display : yes
 
 - image   : jeroen-beckers.jpeg
   day     : 25/11/2022
-  time    : 09:00
+  time    : 09:00 - 17:00
   name    : Jeroen Beckers
   bio     : >-
             I am the mobile solution lead at NVISO, where I am responsible for
@@ -137,10 +138,11 @@
   feed    :
   url     :
   urltag  :
+  display : yes
 
 - image   : brenno-de-winter.jpg
   day     : 25/11/2022
-  time    : 09:00
+  time    : 09:00 - 17:00
   name    : Brenno de Winter
   bio     : >-
             Brenno de Winter, 1971, wrote his first software at the age of 5.
@@ -171,3 +173,4 @@
   feed    :
   url     :
   urltag  :
+  display : yes

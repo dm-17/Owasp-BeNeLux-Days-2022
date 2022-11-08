@@ -20,12 +20,11 @@ title: Trainings
         <h2>{{training.name}}</h2>
       {% endif %}
 
+      <p><em>{{training.time}}</em>
       {% if training.feed %}
-        <p>
-          <a href="/program/feeds#{{training.name}}">Check out the streaming feed!</a>
-        </p>
+          <a href="/program/feeds#{{training.name}}">Check out the streaming feed!</a>  
       {% endif %}
-
+      </p>
       {% if training.abstract %}
         <h4>Abstract:</h4>
           <p>{{training.abstract}}</p>
