@@ -100,10 +100,29 @@
   time    : 11:45 - 12:30
   name    : Bram Patelski
   bio     : >-
-            Coming soon...
-  title   : Security by Meme
+            AppSec Engineer, Security Champion and Java Developer at Ordina.<br>
+            Bram has been working in Software development since early 2000.
+            While already interested in everything security and privacy
+            related, his calling came when rewatching a presentation at
+            DevoxxUK by pentester FC . Since then, Bram has done secure
+            code analysis, created and taught AppSec training for developers,
+            provides valuable input for the security program at his company
+            and presented at several universities and software development
+            companies.
+  title   : Security by Meme - Less FUD, more FUN
   abstract: >-
-            Coming soon...
+            Let's make security fun again. With a pile of memes, I will make
+            you laugh and show you security can be easy and fun.<br>
+            Security experts are perfectly capable of scaring us with FUD:
+            Fear, Uncertainty and Doubt. Horror stories of accounts hacked
+            in seconds, Bank accounts and Crypto wallets drained, smart
+            devices taken over and baby monitors and home security cameras
+            spying on their owners.<br>While those stories are in theory
+            true, they also scare us into thinking security is nearly
+            impossible, even for experts. Yes, there is no such thing as
+            100% security. But we can achieve 99% more security with only
+            1% effort.<br>
+            Let me take you on a trip through Security by meme.
   feed    :
   url     :
   urltag  :
