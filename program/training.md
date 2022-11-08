@@ -2,17 +2,10 @@
 title: Trainings
 ---
 
-<!-- <div align=center>
-  <p>
-    Register for a training at <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">https://owasp-benelux-days-spring-2022.eventbrite.com</a>.<br/>
-    <font color="#FF0000;">Registering for multiple trainings will result in a cancellation of all!</font>
-  </p>
-</div>
-
 <div class="keynote-full">
 
 {% if site.data.training[0].name %}
-	<h1>Trainings on Thursday the 31st of March:</h1>
+	<h1>Trainings on Friday 25/11/2022:</h1>
 	<br />
 	<ul>
 	{% assign trainings = site.data.training | sort: 'name' %}
@@ -53,4 +46,4 @@ title: Trainings
      We will share the information very soon.
   </p>
 {% endif %}
-</div> -->
+</div>

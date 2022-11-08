@@ -1,12 +1,12 @@
-# - title: Conference program
-#   url  : program/conference
-#   items:
-#   - title: Training day
-#     url  : program/training
+- title: Conference program
+  url  : program/conference
+  items:
+  - title: Training day
+    url  : program/training
+  - title: Conference day
+    url  : program/conference
 # #  - title: Social event
 # #    url  : program/socialevent
-#   - title: Conference day
-#     url  : program/conference
 #  - title: Conference live streaming
 #    url  : https://www.youtube.com/watch?v=9MOBMk0Y6KQ
 - title: Location

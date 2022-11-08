@@ -1,40 +1,107 @@
 # 25/09/2022
 
-- image   : image.jpg
-  day     : 24/11/2022
+- image   : sebastien-deleersnyder.jpg
+  day     : 25/11/2022
   time    : 09:00
-  name    : Teacher1
+  name    : Sebastien Deleersnyder
   bio     : >-
-            Bio text
-  title   : Title
+            Sebastien (Seba) Deleersnyder is co-founder and CTO of Toreon.
+            He is also COO and head threat modeling trainer at Data Protection
+            Institute. He started the Belgian OWASP chapter and was an OWASP
+            Foundation Board member. With a development background and years
+            of security experience, he has trained countless developers to
+            create more secure software. Leading OWASP projects such as OWASP
+            SAMM, he has genuinely helped make the world a safer place.
+            What’s he currently up to? Right now, he’s busy adapting application
+            security models to the evolving field of DevOps and is also focused
+            on getting the word out on Threat Modeling to a broader audience.
+  title   : Threat modeling Soft Skills
   abstract: >-
-            Abstract text
+            Everybody knows how to do some basic threat modeling. But we
+            often overlook the crucial soft skills necessary to turn an
+            average meeting into an exciting workshop.<br><br>
+            In this talk, Sebastien Deleersnyder will show you all the
+            necessary ropes required to align and commit your team to a
+            shared vision on security and privacy.<br><br>
+            What will you take away from this training? <br>
+            <ul>
+              <li>Learn the necessary soft skills to become a threat modeling
+              master</li>
+              <li>Sharpen your threat modeling soft skills</li>
+              <li>Discover Maslow’s hierarchy of threat modeling</li>
+              <li>Ask all your burning threat modeling questions to an
+              expert during the Q&A</li>
+            </ul>
   feed    :
   url     :
   urltag  :
 
-- image   : image.jpg
-  day     : 24/11/2022
+- image   : jeroen-beckers.jpeg
+  day     : 25/11/2022
   time    : 09:00
-  name    : Teacher2
+  name    : Jeroen Beckers
   bio     : >-
-            Bio text
-  title   : Title
+            I am the mobile solution lead at NVISO, where I am responsible for
+            quality delivery, innovation and methodology for all mobile
+            assessments. I am actively involved in the mobile security
+            community, and I try to share my knowledge through open-source
+            tools, blogposts, trainings and presentations. ​I am the lead
+            author and instructor of the SANS 575 course: Mobile device
+            security and ethical hacking and a co-author of the OWASP Mobile
+            Application Security Testing Guide (MSTG) and OWASP Mobile
+            Application Security Verification Standard (MASVS).
+  title   : OWASP Mobile Application Security (MAS / MASVS / MASTG)
   abstract: >-
-            Abstract text
+            Every day you walk around with a smartphone that contains your most
+            intimate secrets. Or maybe just your boring work emails. In any
+            case, that data needs to be properly protected. The OWASP Mobile
+            Application Security (MAS) project contains the OWASP Mobile
+            Application Security Verification Standard (MASVS) and the OWASP
+            Mobile Application Security Testing Guide (MASTG) which provide
+            practical security controls that can be implemented to develop
+            secure applications.<br><br>
+            In this workshop, participants will come in contact with the basics
+            of mobile application security. Through hands-on exercises, Jeroen
+            will show which mistakes can be made, both at the design and
+            implementation level, that can compromise the security of both
+            the application and the backend server. Although no real prior
+            experience with mobile applications is needed, some basic knowledge
+            on programming is advised. All exercises are performed on the
+            Corellium platform and no physical testing devices are required.
   feed    :
   url     :
   urltag  :
 
-- image   : image.jpg
-  day     : 24/11/2022
+- image   : brenno-de-winter.jpg
+  day     : 25/11/2022
   time    : 09:00
-  name    : Teacher3
+  name    : Brenno de Winter
   bio     : >-
-            Bio text
-  title   : Title
+            Brenno de Winter, 1971, wrote his first software at the age of 5.
+            He has been in IT ever since. From 2001 to 2016 he was an
+            investigative journalist on technology issues and became journalist
+            of the year for hacking the public transportion rfid-cards. Sinds
+            may 2020 he is Chief Security and Privacy Operations at the Dutch
+            Ministry of Health, Welfare and Sport for the program Realisation
+            Digital Support COVID19.
+  title   : Hurding OpenKAT
   abstract: >-
-            Abstract text
+            OpenKAT is a monitoring tool and vulnerability scanner created by
+            the Dutch Ministry of Health during the vaccination campaign. New
+            systems and functions were developed at high speed and monitoring
+            was needed.<br><br>
+            OpenKAT combines information from different sources and tools,
+            scans automatically and allows for broad analysis and vulnerability
+            detection. It is a modular framework for automagic monitoring or
+            larger systems.<br><br>
+            OpenKAT is useful if you have a complex or large system and a wish
+            to know if there are vulnerabilities and configuration mistakes
+            hiding somewhere. Most security incidents are caused by known
+            vulnerabilities and small errors. OpenKAT finds them before they
+            are found.<br><br>
+            In this training you learn the innerworkings of OpenKAT and you will
+            make your first 'boefje' and 'bit' to integrate OWASP-tools within
+            KAT.
   feed    :
   url     :
   urltag  :

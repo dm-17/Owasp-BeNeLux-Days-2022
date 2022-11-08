@@ -4,12 +4,31 @@ layout: front
 bodyclass: front
 ---
 <section class="punch">
+
 <br><br>
 <h2>News</h2>
 {% for news in site.data.news %}
+  {% if news.display -eq "yes" %}
   <h5>{{news.date}}:</h5>
   <p>{{news.text}}</p>
+  {% endif %}
 {% endfor %}
+<br>
+<h2>Conference program</h2>
+  {% if site.data.conference[0].name %}
+  	{% assign speakers = site.data.conference | sort: 'time' %}
+  	<table>
+  	{% for speaker in speakers %}
+      {% if speaker.display %}
+  	  <tr>
+  	    <td>{{speaker.time}}</td>
+  	    <td>{{speaker.name}}</td>
+  	    <td><a href="/program/conference#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a></td>
+  	  </tr>
+      {% endif %}
+  	{% endfor %}
+  	</table>
+  {% endif %}
 <br>
 <h2>OWASP BeNeLux conference is free, but registration is required!</h2>
 <p>To support the OWASP organisation, consider to become a member, it's only <strong>US$50!</strong> Check out the <a href="https://wiki.owasp.org/index.php/Membership">Membership</a> page to find out more.</p>

@@ -5,7 +5,7 @@ title: Conference program
 <div class="keynote-full">
 
 {% if site.data.conference[0].name %}
-	<h1>Confirmed speakers for Friday the 1st of April:</h1>
+	<h1>Confirmed speakers for Thursday 24/11/2022:</h1>
 	<br />
 	<ul>
 	{% assign speakers = site.data.conference | sort: 'time' %}

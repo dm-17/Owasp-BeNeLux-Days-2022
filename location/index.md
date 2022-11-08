@@ -3,10 +3,10 @@ title: Location
 ---
 
 
+<h2>This Owasp BeNeLux Days Conference 2022 will be taking place at Achmea: </h2>
 <div class="sponsor">
   <a href="https://www.howest.be/"><img src="/assets/images/sponsors/achmea.png" alt="Achmea logo" style="width: 500px;"/></a><br />
 </div>
-This conference will be taking place at Achmea: <br />
 Spoorlaan 298<br />
 5017 JZ Tilburg<br />
 The Netherlands.<br />
