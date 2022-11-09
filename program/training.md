@@ -5,6 +5,22 @@ title: Trainings
 <div class="keynote-full">
 
 {% if site.data.training[0].name %}
+
+
+  <h2>Trainings on 25/11/2022: Schedule</h2>
+  {% assign trainings = site.data.training | sort: 'time' %}
+  <table>
+  {% for training in trainings %}
+    {% if training.display %}
+    <tr>
+      <td>{{training.time}}</td>
+      <td>{{training.name}}</td>
+      <td><a href="/program/training#{{training.name | replace: " ","-"}}">{{training.title}}</a></td>
+    </tr>
+    {% endif %}
+  {% endfor %}
+  </table>
+  <br><br>
 	<h1>Trainings on Friday 25/11/2022:</h1>
 	<br />
 	<ul>

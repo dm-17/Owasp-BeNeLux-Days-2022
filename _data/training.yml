@@ -174,3 +174,17 @@
   url     :
   urltag  :
   display : yes
+
+- image   :
+  day     : 25/11/2022
+  time    : 09:00 - 17:00
+  name    : TBD
+  bio     : >-
+            Coming soon...
+  title   : Securing DevOps pipelines
+  abstract: >-
+            Coming soon...
+  feed    :
+  url     :
+  urltag  :
+  display : yes

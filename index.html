@@ -18,30 +18,24 @@ bodyclass: front
   {% if site.data.conference[0].name %}
   <h2>Conference program on 24/11/2022</h2>
   	{% assign speakers = site.data.conference | sort: 'time' %}
-  	<table>
   	{% for speaker in speakers %}
       {% if speaker.display %}
-  	  <tr>
-  	    <td>{{speaker.time}}</td>
-  	    <td>{{speaker.name}}</td>
-  	    <td><a href="/program/conference#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a></td>
-  	  </tr>
+  	  <ul>
+  	    <li><a href="/program/conference#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a> by {{speaker.name}}</li>
+  	  </ul>
       {% endif %}
   	{% endfor %}
-  	</table>
+
   {% endif %}
 <br>
   {% if site.data.training[0].name %}
   <h2>Trainings on 25/11/2022</h2>
   	{% assign trainings = site.data.training | sort: 'time' %}
-  	<table>
   	{% for training in trainings %}
       {% if training.display %}
-  	  <tr>
-  	    <td>{{training.time}}</td>
-  	    <td>{{training.name}}</td>
-  	    <td><a href="/program/training#{{training.name | replace: " ","-"}}">{{training.title}}</a></td>
-  	  </tr>
+  	  <ul>
+  	    <li><a href="/program/training#{{training.name | replace: " ","-"}}">{{training.title}}</a> by {{training.name}}</li>
+  	  </ul>
       {% endif %}
   	{% endfor %}
   	</table>

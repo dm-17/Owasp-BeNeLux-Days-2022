@@ -5,10 +5,30 @@ title: Conference program
 <div class="keynote-full">
 
 {% if site.data.conference[0].name %}
+	{% assign speakers = site.data.conference | sort: 'time' %}
+	<h1>Conference day: full schedule</h1>
+	<table>
+	{% for speaker in speakers %}
+		<tr>
+			<td>{{speaker.time}}</td>
+		{% if speaker.display %}
+			<td>{{speaker.name}}</td>
+			<td><a href="/program/conference#{{speaker.name | replace: " ","-"}}">{{speaker.title}}</a></td>
+		{% else %}
+			<td colspan="2" align="center">{{speaker.title}}
+			{% if speaker.name %}
+				by {{speaker.name}}
+			{% endif %}
+			</td>
+		{% endif %}
+		</tr>
+	{% endfor %}
+	</table>
+	<br><br>
+
 	<h1>Confirmed speakers for Thursday 24/11/2022:</h1>
 	<br />
 	<ul>
-	{% assign speakers = site.data.conference | sort: 'time' %}
 	{% for speaker in speakers %}
 		{% if speaker.name %}
 		<li>
