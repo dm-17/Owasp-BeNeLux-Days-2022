@@ -30,7 +30,7 @@ title: Conference program
 	<br />
 	<ul>
 	{% for speaker in speakers %}
-		{% if speaker.name %}
+		{% if speaker.display %}
 		<li>
         <a name="{{speaker.name | replace: " ","-"}}">
         <img style="background-image: url(/assets/images/conference/{{speaker.image | default:'owasp_logo.png'}});{{speaker.style}};"></a>
