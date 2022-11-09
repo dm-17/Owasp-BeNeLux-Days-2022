@@ -175,10 +175,12 @@
   urltag  :
   display : yes
 
-- image   :
+- image   : filip-chyla.jpg
+  image2  : marinus-kuivenhoven.jpg
   day     : 25/11/2022
   time    : 09:00 - 17:00
-  name    : Filip and Marinus
+  name    : Filip Chyla 
+  name2   : Marinus Kuivenhoven
   bio     : >-
             Filip has worked in IT for over 15 years, 8 of those years in 
             cybersecurity with a focus on infrastructure and cloud security. 
@@ -198,8 +200,8 @@
             development life cycles at organizations. But also, the underlying 
             activities like security requirements, architectural threat analysis, 
             source code reviews, social engineering, penetration testing, and red 
-            teaming.<br /> 
-            <br />
+            teaming.
+  bio2    : >-
             Marinus also developed several courses on security and has given them 
             to well over 5000 participants. Lastly, Marinus has helped many 
             organizations to raise their maturity level of security in the most 
