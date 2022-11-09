@@ -178,12 +178,49 @@
 - image   :
   day     : 25/11/2022
   time    : 09:00 - 17:00
-  name    : TBD
+  name    : Filip and Marinus
   bio     : >-
-            Coming soon...
+            Filip has worked in IT for over 15 years, 8 of those years in 
+            cybersecurity with a focus on infrastructure and cloud security. 
+            Currently part of Xebia Security helping customers on their cloud 
+            journeys by using security to enable the organization to grow 
+            securely and most productively. His specialties are DevSecOps and 
+            cloud security. He likes to spend time researching new technologies 
+            in the cloud. Designing, analysing cloud environments and finding 
+            cloud integration with existing infrastructure. He’s passionate 
+            about using the defensive and offensive sides of security to bring 
+            additional value to projects he is involved in. Prior to joining 
+            Xebia, Filip worked at FlowTraders as a security engineer, helping 
+            with the cloud transformation and working to secure their 
+            high-speed trading environments.Marinus works as a CTO and head of 
+            learning and coaching at Xebia Security. He has 20 years of 
+            experience in implementing security in the culture, teams and 
+            development life cycles at organizations. But also, the underlying 
+            activities like security requirements, architectural threat analysis, 
+            source code reviews, social engineering, penetration testing, and red 
+            teaming.<br /> 
+            <br />
+            Marinus also developed several courses on security and has given them 
+            to well over 5000 participants. Lastly, Marinus has helped many 
+            organizations to raise their maturity level of security in the most 
+            efficient way. Clients include major players in the retail, wholesale, 
+            insurance, telecommunication and transport industries as well as the 
+            Dutch government.
   title   : Securing DevOps pipelines
   abstract: >-
-            Coming soon...
+            DevOps forces the business and AppSec to start interacting differently 
+            with development teams. Many security(-related) processes were never 
+            designed for a high-velocity development environment which leads to 
+            ineffective and time-consuming processes. In order to instead make 
+            them add value we need rethink and redesign these processes in such a 
+            way that DevSecOps frees the team from the impactful activities that 
+            are on top of their existing way of working.<br />  
+            Automating and off-loading security activities allow for a development 
+            team to focus on adding value. At the same time through the use of 
+            Infrastructure as Code and Immutability it is possible to remove human 
+            error from common or impactful tasks. This training shows how to 
+            integrate security in the development proces, platform, product and 
+            pipelines.
   feed    :
   url     :
   urltag  :
