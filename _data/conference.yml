@@ -84,7 +84,7 @@
 
   title   : CTF Kickoff with OWASP WrongSecrets
   abstract: >-
-            Want to have a go at secrets hunting? Enter OWASP WrongSecrets!
+            Want to have a go at secrets hunting? Enter <a href="/program/ctf">OWASP WrongSecrets</a>!
             You won’t get our demonstration. Instead, you’ll go on a secrets hunt
             yourself with this custom made CTF for this event. During this session,
             we will share the domain and credentials for which you can register

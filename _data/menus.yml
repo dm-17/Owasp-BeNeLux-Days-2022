@@ -5,7 +5,9 @@
     url  : program/training
   - title: Conference day
     url  : program/conference
-# #  - title: Social event
+  - title: Capture the Flag
+    url  : program/CTF
+#  - title: Social event
 # #    url  : program/socialevent
 #  - title: Conference live streaming
 #    url  : https://www.youtube.com/watch?v=9MOBMk0Y6KQ
