@@ -1,9 +1,9 @@
 # 25/09/2022
 
-- image    :
-  name     :
-  url      :
-  level    : none
+- image    : 42crunch.png
+  name     : 42 Crunch
+  url      : https://42crunch.com
+  level    : Gold
   style    :
 
 #- image   : contrast-security.png
@@ -12,11 +12,11 @@
 #  level   : Gold
 #  style   :
 #
-# - image   : micro-focus.png
-#   name    : Micro Focus
-#   url     : https://www.microfocus.com/
-#   level   : Gold
-#   style   :
+- image   : micro-focus.png
+  name    : Micro Focus
+  url     : https://www.microfocus.com/
+  level   : Gold
+  style   :
 #
 # - image   : secura.png
 #   name    : Secura
@@ -30,11 +30,11 @@
 #   level   : Gold
 #   style   :
 #
-# - image   : davinsi-labs.png
-#   name    : Davinsi Labs
-#   url     : https://davinsi.com/
-#   level   : Silver
-#   style   :
+- image   : davinsi-labs.png
+  name    : Davinsi Labs
+  url     : https://davinsi.com/
+  level   : Bronze
+  style   :
 #
 # - image   : toreon.png
 #   name    : Toreon
@@ -48,8 +48,8 @@
 #   level   : Silver
 #   style   :
 #
-# - image   : vest.png
-#   name    : Vest
-#   url     : https://www.vest.nl/
-#   level   : Gold
-#   style   :
+- image   : vest.png
+  name    : Vest
+  url     : https://www.vest.nl/
+  level   : Gold
+  style   :
