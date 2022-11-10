@@ -4,7 +4,7 @@ div.ctf {
 	}
 	li {
 		padding-left: 10px;
-		padding-bottom:10px;
+		padding-bottom:5px;
 		list-style-type: circle !important;
 		clear: both;
 		ul {
@@ -26,9 +26,12 @@ div.ctf {
 		width: 500px;
 		border: 10;
 		border-radius: 2%;
-		float: center;
 		border-style: groove;
 		border-width: thin;
+		align: left;
+		#float: center;
+		margin-top: 20px;
+		margin-bottom: 40px;
 
 		#background-size: cover;
 		margin-left:80px;
@@ -38,20 +41,20 @@ div.ctf {
 		margin: 0px;
 		text-indent:20px;
 		padding:0px;
-		margin-right: 500px;
 	}
 
-	.italic {
+	.quote {
+		text-indent:20px;
 		font-style: italic;
 	}
 
-	.inverted {
+	.highlight {
 		font-weight: bolder;
-		background-color: lightgray;
+		#background-color: lightgray;
+		color: gray;
 		margin-left: 40px;
 		padding-top: 10px;
 		padding-bottom: 10px;
-		margin-right: 500px;
 	}
 
 }

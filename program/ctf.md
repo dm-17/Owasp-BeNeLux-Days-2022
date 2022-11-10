@@ -25,13 +25,13 @@ laptop with Wifi, a browser, and Docker!
 <img src="/assets/images/ctf/image3.png">
 
 </div>
+<br>
 <div class="ctf">
 
-<br><br>
-<h1>What do you need to play?</h1>
 
+<h1>What do you need to play?</h1>
+A laptop with:
 <ul>
-<li>a laptop with</li>
 <li>a recent version of Docker;</li>
 <li>a modern web-browser (Recent version of Chrome or alike is recommended),</li>
 <li>a Working Wifi!</li>
@@ -63,10 +63,10 @@ So bring that laptop well prepared and get ready for some fun hacking!</p>
 <li>From the awesome pentester, till the heavily trained red-teamer... </li>
 </ul>
 And all of them had one thing in common:<br>
-<div class="inverted">They had fun doing the exercises!</div></p>
+<div class="highlight">They had fun doing the exercises!</div></p>
 <br><br>
 
-<p><div class="italic">"But I am a business/salesman/analyst/a nurse/a physicist!"</div><br>
+<p><div class="quote">"But I am a business/salesman/analyst/a nurse/a physicist!"</div>
 &rarr; Even for you there are challenges that will give you points and help you
 understand secrets management on the way</p>
 </div>
