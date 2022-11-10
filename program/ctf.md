@@ -3,70 +3,76 @@ title: This is OWASP WrongSecrets in CTF mode!
 ---
 
 <div class="ctf">
-<h1>What is OWASP WrongSecrets in CTF mode?</h1>
-<br>
-<img src="/assets/images/ctf/image1.png">
+  <h1>What is OWASP WrongSecrets in CTF mode?</h1>
+  <br>
+  <img src="/assets/images/ctf/image1.png">
 
-<p>
-Play head to head against other contestants in a secrets hunt which spawns
-strawling through Git code, disecting Docker containers, finding
-misconfigurations in Kubernetes, overcoming cloud challenges, reverse
-engineering of binaries, and even makes you dive into Web3 secrets! <br>
-</p>
+  <p>
+  Play head to head against other contestants in a secrets hunt which spawns
+  strawling through Git code, disecting Docker containers, finding
+  misconfigurations in Kubernetes, overcoming cloud challenges, reverse
+  engineering of binaries, and even makes you dive into Web3 secrets! <br>
+  </p>
 
-<img src="/assets/images/ctf/image2.png">
-
-
-<p>All of this on a virtualized environment, so all you have to do , is bring a
-laptop with Wifi, a browser, and Docker!
-</p>
+  <img src="/assets/images/ctf/image2.png">
 
 
-<img src="/assets/images/ctf/image3.png">
+  <p>All of this on a virtualized environment, so all you have to do , is bring a
+  laptop with Wifi, a browser, and Docker!
+  </p>
+
+
+  <img src="/assets/images/ctf/image3.png">
 
 </div>
 <br>
 <div class="ctf">
+  <h1>What do you need to play?</h1>
+  A laptop with:
+  <ul>
+  <li>a recent version of Docker;</li>
+  <li>a modern web-browser (Recent version of Chrome or alike is recommended),</li>
+  <li>a Working Wifi!</li>
+  <li>the AWS CLI</li>
+  </ul>
+  <br>
+  <h2>What could help, but is not strictly required</h2>
+  <p>Any tool that allows you for easy reverse-engineering like:
+  <ul>
+  <li>Radare2<div class="italic">(Don't worry: you will have a virtual environment where Radare2 waiting for you...)</div></li>
+  <li>Ghidra</li>
+  <li>Git</li>
+  </ul>
+  </p>
 
-
-<h1>What do you need to play?</h1>
-A laptop with:
-<ul>
-<li>a recent version of Docker;</li>
-<li>a modern web-browser (Recent version of Chrome or alike is recommended),</li>
-<li>a Working Wifi!</li>
-<li>the AWS CLI</li>
-</ul>
-<br>
-<h2>What could help, but is not strictly required</h2>
-<p>Any tool that allows you for easy reverse-engineering like:
-<ul>
-<li>Radare2<div class="italic">(Don't worry: you will have a virtual environment where Radare2 waiting for you...)</div></li>
-<li>Ghidra</li>
-<li>Git</li>
-</ul>
-</p>
-
-<p>You can even play part of the exercises on your tablet if you want
-to &#128540;.
-<br>But we doubt whether you will finish first &#128540; as others
-might be racing to the finish line. <br>
-So bring that laptop well prepared and get ready for some fun hacking!</p>
+  <p>You can even play part of the exercises on your tablet if you want
+  to &#128540;.
+  <br>But we doubt whether you will finish first &#128540; as others
+  might be racing to the finish line. <br>
+  So bring that laptop well prepared and get ready for some fun hacking!</p>
 </div>
 <div class="ctf">
-<br><br>
-<h1>Will I be able to do this?</h1>
-<p>YES!!! We tested this CTF with a wide range of people: <br>
-<ul>
-<li>From your old-school OPS specialist, to your modern SRE-cloud-engineer... </li>
-<li>From your awesome script-writer to your modern full-stack developer... </li>
-<li>From the awesome pentester, till the heavily trained red-teamer... </li>
-</ul>
-And all of them had one thing in common:<br>
-<div class="highlight">They had fun doing the exercises!</div></p>
-<br><br>
+  <br><br>
+  <h1>Will I be able to do this?</h1>
+  <p>YES!!! We tested this CTF with a wide range of people: <br>
+  <ul>
+  <li>From your old-school OPS specialist, to your modern SRE-cloud-engineer... </li>
+  <li>From your awesome script-writer to your modern full-stack developer... </li>
+  <li>From the awesome pentester, till the heavily trained red-teamer... </li>
+  </ul>
+  And all of them had one thing in common:<br>
+  <div class="highlight">They had fun doing the exercises!</div></p>
+  <br><br>
 
-<p><div class="quote">"But I am a business/salesman/analyst/a nurse/a physicist!"</div>
-&rarr; Even for you there are challenges that will give you points and help you
-understand secrets management on the way</p>
+  <p><div class="quote">"But I am a business/salesman/analyst/a nurse/a physicist!"</div>
+  &rarr; Even for you there are challenges that will give you points and help you
+  understand secrets management on the way</p>
+</div>
+<br>
+
+<div class="ctf">
+  <h1>How do I start?</h1>
+  <p>The CTF takes place on Thursday 24/11/2022.<br>
+  All you need to know will be provided during <a href="/program/conference#Jeroen-Willemsen-and-Ben-De-Haan">Jeroen Willemsen and Ben De Haan's talk</a> at 10h!
+</p>
 </div>
