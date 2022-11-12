@@ -172,10 +172,40 @@
   time    : 14:15 - 15:00
   name    : Colin Domoney
   bio     : >-
-            Coming soon...
+            Colin Domoney is an API security research specialist and developer
+            advocate with 42Crunch. He oversees the development of the 42Crunch
+            community and curates the
+            <a href="http://apisecurity.io/" target="_blank">ApiSecurity.io</a> industry
+            newsletter.
+            Colin has a long and varied career in producing secure, rugged,
+            and trustable software and hardware products covering a range of
+            industries from military, consumer, medical, automotive to financial
+            services. Colin has recently built and consulted on large-scale
+            AppSec programs and oversaw Deutsche Bank's global AppSec program,
+            and is an expert and enthusiast on all things DevSecOps. Colin is
+            also a regular conference speaker and DevOps instructor and is
+            currently authoring the industry's first book on defending APIs.
   title   : Are your APIs rugged?
   abstract: >-
-            Coming soon...
+            The Rugged Manifesto threw down the gauntlet to developers –
+            is your code more than secure, is it also rugged? Is it resilient
+            and able to withstand attacks from talented and well-funded
+            adversaries? If you're an API developer you are on the frontline
+            when it comes to building rugged software since your APIs are
+            likely to be public-facing, well documented, discoverable, and
+            constantly under attack.<br>
+
+            In this session, we explore the OWASP API Top 10 vulnerabilities
+            and other challenges that face API developers when building a
+            secure API. We show how to leverage the power of the OpenAPI
+            specification to better understand how to protect specific
+            endpoints and responses, how to constrain input and output
+            data, and how to use a variety of API test tooling to verify
+            the specification and the API implementation.<br>
+
+            Finally, we'll review several recent high-profile API breaches
+            and recreate the underlying issues to gain a deeper insight into
+            the root cause and how to defend against such errors.
   feed    :
   url     :
   urltag  :
