@@ -34,7 +34,7 @@ bodyclass: front
   	{% for training in trainings %}
       {% if training.display %}
   	  <ul>
-  	    <li><a href="/program/training#{{training.name | replace: " ","-"}}">{{training.title}}</a> by {{training.name}}</li>
+  	    <li><a href="/program/training#{{training.name | replace: " ","-"}}">{{training.title}}</a> by {{training.name}}{% if training.name2 %} and {{training.name2}}{% endif %}</li>
   	  </ul>
       {% endif %}
   	{% endfor %}
