@@ -2,12 +2,14 @@
 title: Social event
 ---
 
-<!-- <div class="social-event">
+<div class="social-event">
 
   <p><br>
-  On Thursday evening we organize a social event on the Penta Campus.<br>
-You are welcome to join us for a drink and snacks as of 19:00.<br><br>
-Please <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">register</a> when you plan to come?
+  On Thursday evening we organize a social event in <a href="https://www.agora-tilburg.nl/">Agora Tilburg</a>.<br>
+You are welcome to join us for a dinner as of 18:30.<br><br>
+Please <a href="https://owasp-benelux-days-fall-2022.eventbrite.com/">register</a> when you plan to come?
+The social event is free, but everyone pays for themself.<br />
+There is limited space available in Agora Tilburg. The social event is first come first serve.
 
 
   </p>
@@ -22,4 +24,4 @@ Please <a href="https://owasp-benelux-days-spring-2022.eventbrite.com">register<
     {% endfor %}
   {% endif %}
 
-</div> -->
+</div>

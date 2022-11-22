@@ -7,8 +7,8 @@
     url  : program/conference
   - title: Capture the Flag
     url  : program/ctf
-#  - title: Social event
-# #    url  : program/socialevent
+  - title: Social event
+    url  : program/socialevent
 #  - title: Conference live streaming
 #    url  : https://www.youtube.com/watch?v=9MOBMk0Y6KQ
 - title: Location
