@@ -19,8 +19,6 @@
 #  url  : program/feeds
 - title: Donate
   url  : donate/
-- title: Register
-  url  : https://owasp-benelux-days-fall-2022.eventbrite.com/
 - title: About
   items:
   - title: About OWASP
