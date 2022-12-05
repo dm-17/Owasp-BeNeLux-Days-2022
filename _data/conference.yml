@@ -24,7 +24,7 @@
             number of OWASP projects we use to help do this both commercially and
             as part of the work we are doing in the OWASP Open Application Security
             Curriculum project.
-  feed    :
+  feed    : https://youtu.be/v3ZPN81WNmk
   url     :
   urltag  :
   display : yes
@@ -58,7 +58,7 @@
             Red Team is using to break into secure organizations. So, do you
             want to see in real life how to clone a physical key or a badge,
             and how to use lockpicks and other fun tools? Join this talk!
-  feed    :
+  feed    : https://youtu.be/wFHgOaCm9Ck
   url     :
   urltag  :
   display : yes
@@ -90,7 +90,7 @@
             we will share the domain and credentials for which you can register
             in order to play a CTF until 15h00! The winner of the CTF goes home
             with a surprise prize. Hope to see you there!
-  feed    :
+  feed    : https://youtu.be/MsoFXizE4yQ
   url     :
   urltag  :
   display : yes
@@ -123,7 +123,7 @@
             100% security. But we can achieve 99% more security with only
             1% effort.<br>
             Let me take you on a trip through Security by meme.
-  feed    :
+  feed    : https://youtu.be/rG7QbTf5X-c
   url     :
   urltag  :
   display : yes
@@ -162,7 +162,7 @@
             sabotage, and potentially physical destruction. In this talk I
             will present our analysis of INCONTROLLER, its components, attack
             scenarios, and the implications for defenders.
-  feed    :
+  feed    : https://youtu.be/kSR1d2qph8Q
   url     :
   urltag  :
   display : yes
@@ -206,7 +206,7 @@
             Finally, we'll review several recent high-profile API breaches
             and recreate the underlying issues to gain a deeper insight into
             the root cause and how to defend against such errors.
-  feed    :
+  feed    : https://youtu.be/YJ65Lg-SeJM
   url     :
   urltag  :
   display : yes
@@ -237,7 +237,7 @@
             talk we will present the research process, our own experiences as
             researchers, and offer a glimpse at some preliminary findings and
             insights.
-  feed    :
+  feed    : https://youtu.be/KFMY-Zy4Stk
   url     :
   urltag  :
   display : yes
@@ -271,7 +271,7 @@
             This talk will tell the inside hacker tale of the pandemic and
             show the dilemmas that were overcome.<br>
             This is a story of hackers in a ministry at the heat of the moment.
-  feed    :
+  feed    : https://youtu.be/q_Kdt-WsG08
   url     :
   urltag  :
   display : yes
