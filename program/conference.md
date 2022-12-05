@@ -21,9 +21,15 @@ title: Conference program
 			{% endif %}
 			</td>
 		{% endif %}
+		<td>
+		{% if speaker.feed %}
+		<a href="{{speaker.feed}}"><img class="youtube" src="/assets/images/conference/youtube_social_icon_red.png"></a>
+		{% endif %}
+		</td>
 		</tr>
 	{% endfor %}
 	</table>
+
 	<br><br>
 
 	<h1>Confirmed speakers for Thursday 24/11/2022:</h1>
@@ -47,6 +53,7 @@ title: Conference program
       </p>
 
       {% if speaker.abstract %}
+			<br>
         <h4>Abstract:</h4>
           <p>{{speaker.abstract}}</p>
           <br>

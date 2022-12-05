@@ -90,6 +90,15 @@ div.keynote-full {
 		text-indent:20px;
 		padding:0px;
 	}
+
+	img.youtube {
+		position: relative;
+		top: .2em;
+		width: 1.5em;
+		height: 1em;
+		border-radius: 0%;
+		margin-left:0px;
+	}
 }
 
 @media (max-width: 500px) {
